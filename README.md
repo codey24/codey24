@@ -1,8 +1,4 @@
-# Hi there, I'm [EREX 👋
-
-<div style="text-align: center;">
-  <img src="https://t3.ftcdn.net/jpg/03/16/91/28/360_F_316912806_RCeHVmUx5LuBMi7MKYTY5arkE4I0DcpU.jpg" alt="Banner Image" style="width: 100%; max-width: 800px; height: auto;">
-</div>
+# Hi there, I'm EREX 👋
 
 ## 🌟 About Me
 
