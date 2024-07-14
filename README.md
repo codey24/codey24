@@ -1,8 +1,8 @@
-# Hi there, I'm Erex 👋
+# Hi there, I'm Erex <img src="https://raw.githubusercontent.com/codey24/codey24/main/gifmaker_me.gif" alt="GIF" style="width: 50px;">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Erex.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Erex.png" alt="TryHackMe" style="width: 300px;">
 
-<img src="https://raw.githubusercontent.com/codey24/codey24/main/gifmaker_me.gif" alt="GIF">
+
 
 ## 🌟 About Me
 
