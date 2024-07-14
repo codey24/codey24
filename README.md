@@ -1,4 +1,6 @@
-# Hi there, I'm EREX 👋
+# Hi there, I'm Erex 👋
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Erex.png" alt="TryHackMe">
 
 ## 🌟 About Me
 
@@ -102,10 +104,6 @@ Simulated and controlled processes in a wastewater treatment plant using Omron P
 - **SCADA system design and implementation**
 
 **Skills**: PLC Programming, SCADA, Industrial Networking, Wastewater Treatment
-
----
-
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/850931.png)
 
 ---
 
