@@ -53,14 +53,13 @@ I'm an **Automation Engineer** passionate about transforming complex systems int
 ### Development of Web-Based Monitoring System for Tablet Feeding System
 **Mar 2024 - Jun 2024**
 
-I spearheaded a cutting-edge monitoring system for a tablet feeding machine using Omron CJ2M PLCs and Node-RED. Key achievements included:
+Spearheaded a cutting-edge monitoring system for a tablet feeding machine using Omron CJ2M PLCs and Node-RED. Key achievements included:
 - **Real-time data acquisition and processing**
 - **Web-based dashboard development**
 - **Predictive maintenance using cycle time data**
 - **Integration of FINS and MQTT protocols**
 - **AI-based anomaly detection and maintenance alerts**
 
-**Skills**: PLC Programming, Node-RED, Data Acquisition, AI, JavaScript, Python, Predictive Maintenance, Anomaly Detection
 
 ### Automatic Production Monitoring and Traceability System
 **Jan 2021 - Jul 2021**
@@ -70,7 +69,6 @@ Engineered a robust system to automate and monitor production processes using Ar
 - **Remote monitoring and control via smart devices**
 - **Significant reduction in manual oversight**
 
-**Skills**: PLC Programming, Automation, HMI Design, IoT, Profinet
 
 ### Comparative Analysis of YOLO Models for Traffic Light Colour Detection
 
@@ -78,7 +76,6 @@ Executed a comprehensive study on YOLO models to detect traffic light colors und
 - **Image processing and model training**
 - **Evaluation of pre-processing techniques**
 
-**Skills**: Image Processing, YOLO, Machine Vision, Python, Machine Learning
 
 ### Design and Implementation of Robot Collating System Control Panel
 
@@ -87,7 +84,6 @@ Architected and programmed a control panel for a robot collating system using Om
 - **Control panel design**
 - **SCADA integration**
 
-**Skills**: Omron PLC Programming, SCADA, Industrial Automation, Control Panel Design
 
 ### Development of Mini Conveyor System with Mobile Device Control and Monitoring
 
@@ -95,7 +91,6 @@ Developed innovative control algorithms for a mini conveyor system using Omron C
 - **Real-time monitoring and control via Node-RED**
 - **Ladder Logic programming with Omron CX-Programmer**
 
-**Skills**: PLC Programming, Node-RED, IoT, JavaScript, Control Panel Design
 
 ### Teras Jernang Wastewater Treatment Plant Automation Simulation
 
@@ -103,7 +98,6 @@ Simulated and controlled processes in a wastewater treatment plant using Omron P
 - **Control algorithm creation for plant operations**
 - **SCADA system design and implementation**
 
-**Skills**: PLC Programming, SCADA, Industrial Networking, Wastewater Treatment
 
 ---
 
